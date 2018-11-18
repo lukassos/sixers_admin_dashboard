@@ -6,7 +6,7 @@ Sixers backend prototype
 ------
 ### Run it online 
 
-(live demo)[https://github.com/lukassos/votedem.github.io/archive/master.zip]
+(live demo)[https://lukassos.github.io/votedem.github.io/]
 ------
 ### Run it locally 
 
